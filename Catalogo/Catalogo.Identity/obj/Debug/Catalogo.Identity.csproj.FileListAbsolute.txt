@@ -1,0 +1,12 @@
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Catalogo\Catalogo.Identity\bin\Debug\Catalogo.Identity.dll.config
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Catalogo\Catalogo.Identity\bin\Debug\Catalogo.Identity.dll
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Catalogo\Catalogo.Identity\bin\Debug\Catalogo.Identity.pdb
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Catalogo\Catalogo.Identity\bin\Debug\EntityFramework.dll
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Catalogo\Catalogo.Identity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Catalogo\Catalogo.Identity\bin\Debug\EntityFramework.xml
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Catalogo\Catalogo.Identity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Catalogo\Catalogo.Identity\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Catalogo\Catalogo.Identity\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Catalogo\Catalogo.Identity\obj\Debug\Catalogo.Identity.csprojResolveAssemblyReference.cache
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Catalogo\Catalogo.Identity\obj\Debug\Catalogo.Identity.dll
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Catalogo\Catalogo.Identity\obj\Debug\Catalogo.Identity.pdb

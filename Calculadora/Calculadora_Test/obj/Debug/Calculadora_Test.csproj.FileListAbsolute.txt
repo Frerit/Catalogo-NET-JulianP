@@ -1,0 +1,9 @@
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Calculadora\Calculadora_Test\obj\Debug\Calculadora_Test.csprojResolveAssemblyReference.cache
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Calculadora\Calculadora_Test\bin\Debug\Calculadora_Test.dll
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Calculadora\Calculadora_Test\bin\Debug\Calculadora_Test.pdb
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Calculadora\Calculadora_Test\bin\Debug\Calculadora.dll
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Calculadora\Calculadora_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Calculadora\Calculadora_Test\bin\Debug\Calculadora.pdb
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Calculadora\Calculadora_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Calculadora\Calculadora_Test\obj\Debug\Calculadora_Test.dll
+C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\Calculadora\Calculadora_Test\obj\Debug\Calculadora_Test.pdb

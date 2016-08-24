@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="42e734e2-6d0d-41f1-a567-961a1dbedbdf" ChangeDateTime="07/28/2016 00:19:44">
+    <Property Name="ElementName" Value="[dbo].[CK_Producto_Column]" />
+    <Property Name="ElementType" Value="SqlCheckConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[Producto]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[CK_Producto_Price]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a9cf95a3-1cc3-4f7c-bb99-9f5d9f8c5ce4" ChangeDateTime="07/28/2016 00:27:26">
+    <Property Name="ElementName" Value="[dbo].[AK_Producto_Nombre]" />
+    <Property Name="ElementType" Value="SqlUniqueConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[Producto]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[UQ_Producto_Nombre]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="44975d33-5b82-49bf-8ee9-d0a3f96b32e6" ChangeDateTime="07/28/2016 00:39:33">
+    <Property Name="ElementName" Value="[dbo].[Categoria].[descripcion]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Categoria]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Descripcion" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="532c63ae-745c-4edb-a489-6637eec013f0" ChangeDateTime="07/28/2016 00:40:26">
+    <Property Name="ElementName" Value="[dbo].[ProductoXCategoria].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[ProductoXCategoria]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="IdproductoXcategoria" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a37975d7-4e5b-4a95-9402-2597cc065c05" ChangeDateTime="07/28/2016 00:40:37">
+    <Property Name="ElementName" Value="[dbo].[ProductoXCategoria].[IdproductoXcategoria]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[ProductoXCategoria]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="IdProductoXCategoria" />
+  </Operation>
+</Operations>

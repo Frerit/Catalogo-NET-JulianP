@@ -1,0 +1,77 @@
+3/08/2016 6:12:51 p. m.	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'Inversa' del equipo 'MEMOVIL53' por el usuario 'julianperez'.
+3/08/2016 6:12:51 p. m.	Se inició la importación del esquema de la base de datos.
+3/08/2016 6:12:57 p. m.	Recopilando opciones de base de datos
+3/08/2016 6:12:57 p. m.	Recopilando usuarios
+3/08/2016 6:12:57 p. m.	Recopilando roles
+3/08/2016 6:12:57 p. m.	Recopilando roles de aplicación
+3/08/2016 6:12:57 p. m.	Recopilando pertenencias a roles
+3/08/2016 6:12:57 p. m.	Recopilando grupos de archivos
+3/08/2016 6:12:57 p. m.	Recopilando catálogos de texto completo
+3/08/2016 6:12:57 p. m.	Recopilando ensamblados
+3/08/2016 6:12:57 p. m.	Recopilando certificados
+3/08/2016 6:12:57 p. m.	Recopilando claves asimétricas
+3/08/2016 6:12:57 p. m.	Recopilando claves simétricas
+3/08/2016 6:12:57 p. m.	Recopilando claves simétricas cifradas
+3/08/2016 6:12:57 p. m.	Recopilando esquemas
+3/08/2016 6:12:57 p. m.	Recopilando colecciones de esquemas XML
+3/08/2016 6:12:57 p. m.	Recopilando tipos de datos definidos por el usuario
+3/08/2016 6:12:57 p. m.	Recopilando tipos definidos por el usuario
+3/08/2016 6:12:57 p. m.	Recopilando tipos de tabla
+3/08/2016 6:12:57 p. m.	Recopilando claves únicas para tipos de tabla
+3/08/2016 6:12:57 p. m.	Recopilando claves principales para tipos de tabla
+3/08/2016 6:12:57 p. m.	Recopilando índices para tipos de tablas
+3/08/2016 6:12:57 p. m.	Recopilando restricciones CHECK para tipos de tabla
+3/08/2016 6:12:57 p. m.	Recopilando restricciones DEFAULT para tipos de tabla
+3/08/2016 6:12:57 p. m.	Recopilando funciones de partición
+3/08/2016 6:12:57 p. m.	Recopilando esquemas de partición
+3/08/2016 6:12:57 p. m.	Recopilando funciones
+3/08/2016 6:12:57 p. m.	Recopilando funciones cifradas
+3/08/2016 6:12:57 p. m.	Recopilando agregados
+3/08/2016 6:12:57 p. m.	Recopilando procedimientos
+3/08/2016 6:12:57 p. m.	Recopilando procedimientos cifrados
+3/08/2016 6:12:57 p. m.	Recopilando tablas
+3/08/2016 6:12:57 p. m.	Recopilando claves principales
+3/08/2016 6:12:57 p. m.	Recopilando restricciones UNIQUE
+3/08/2016 6:12:57 p. m.	Recopilando claves externas
+3/08/2016 6:12:57 p. m.	Recopilando restricciones DEFAULT
+3/08/2016 6:12:57 p. m.	Recopilando restricciones CHECK
+3/08/2016 6:12:57 p. m.	Recopilando vistas
+3/08/2016 6:12:57 p. m.	Recopilando vistas cifradas
+3/08/2016 6:12:57 p. m.	Recopilando índices
+3/08/2016 6:12:57 p. m.	Recopilando estadísticas
+3/08/2016 6:12:57 p. m.	Recopilando listas de palabras irrelevantes de índices de texto completo
+3/08/2016 6:12:57 p. m.	Recopilando listas de propiedades de búsqueda
+3/08/2016 6:12:57 p. m.	Recopilando propiedades de búsqueda
+3/08/2016 6:12:57 p. m.	Recopilando índices de texto completo
+3/08/2016 6:12:57 p. m.	Recopilando índices de almacenamiento de columnas
+3/08/2016 6:12:57 p. m.	Recopilando índices espaciales
+3/08/2016 6:12:57 p. m.	Recopilando índices XML
+3/08/2016 6:12:57 p. m.	Recopilando índices XML selectivos
+3/08/2016 6:12:57 p. m.	Recopilando desencadenadores cifrados
+3/08/2016 6:12:57 p. m.	Recopilando desencadenadores
+3/08/2016 6:12:57 p. m.	Recopilando DDL triggers cifrados y de CLR
+3/08/2016 6:12:57 p. m.	Recopilando DDL triggers
+3/08/2016 6:12:57 p. m.	Recopilando sinónimos
+3/08/2016 6:12:57 p. m.	Recopilando valores predeterminados
+3/08/2016 6:12:57 p. m.	Recopilando enlaces UDDT de restricción de datos
+3/08/2016 6:12:57 p. m.	Recopilando reglas
+3/08/2016 6:12:57 p. m.	Recopilando enlaces UDDT de restricción de datos
+3/08/2016 6:12:57 p. m.	Recopilando tipos de mensaje
+3/08/2016 6:12:57 p. m.	Recopilando colas
+3/08/2016 6:12:57 p. m.	Recopilando contratos
+3/08/2016 6:12:57 p. m.	Recopilando servicios
+3/08/2016 6:12:57 p. m.	Recopilando notificaciones de eventos
+3/08/2016 6:12:57 p. m.	Recopilando enlaces de servicio remoto
+3/08/2016 6:12:57 p. m.	Recopilando prioridades de Broker
+3/08/2016 6:12:57 p. m.	Recopilando firmas
+3/08/2016 6:12:57 p. m.	Recopilando opciones de compresión de datos
+3/08/2016 6:12:57 p. m.	Recopilando tipos de secuencia
+3/08/2016 6:12:57 p. m.	Recopilando propiedades extendidas
+3/08/2016 6:12:57 p. m.	Recopilando credenciales
+3/08/2016 6:12:57 p. m.	Recopilando inicios de sesión
+3/08/2016 6:12:57 p. m.	Recopilando auditorías de servidor
+3/08/2016 6:12:58 p. m.	Buscando elementos duplicados en el proyecto
+3/08/2016 6:12:58 p. m.	Ha finalizado el procesamiento de los elementos duplicados
+3/08/2016 6:12:58 p. m.	Finalizó la importación de la base de datos.
+3/08/2016 6:12:58 p. m.	Se guardó un resumen de la importación en la siguiente ubicación: C:\Users\julianperez\Documents\Visual Studio 2015\Projects\Proyecto_Catalogo\RepasoDB\Inversa\Registros de importación de esquemas\Inversa_20160803111251.log
+3/08/2016 6:12:58 p. m.	Haga clic en Finalizar para continuar...
