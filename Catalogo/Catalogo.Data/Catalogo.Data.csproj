@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CategoriaData.cs" />
+    <Compile Include="ProductoData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -61,6 +62,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Catalogo.Entity.DTO\Catalogo.Entity.DTO.csproj">
+      <Project>{2cf65f1e-8485-40bf-a1ec-d81fcf0fb9df}</Project>
+      <Name>Catalogo.Entity.DTO</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Catalogo.Identity\Catalogo.Entity.csproj">
       <Project>{7b5aee3c-8649-459a-811e-f16500c9a553}</Project>
       <Name>Catalogo.Entity</Name>

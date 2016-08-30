@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Catalogo.Entity.DTO
 {
-    class ProductoDTO
+    public class ProductoDTO
     {
         public long Id { get; set; }
 

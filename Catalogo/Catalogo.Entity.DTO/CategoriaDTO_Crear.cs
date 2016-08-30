@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Catalogo.Entity.DTO
 {
-    class CategoriaDTO_Crear
+   public class CategoriaDTO_Crear
     {
        
         [Required]

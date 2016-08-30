@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Catalogo.Entity.DTO
 {
-    class ProductoDTO_Delete
+    public class ProductoDTO_Delete
     {
         public long Id { get; set; }
         

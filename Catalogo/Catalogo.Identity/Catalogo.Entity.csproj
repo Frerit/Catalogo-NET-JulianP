@@ -61,6 +61,16 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Catalogo.Entity.DTO\Catalogo.Entity.DTO.csproj">
+      <Project>{2cf65f1e-8485-40bf-a1ec-d81fcf0fb9df}</Project>
+      <Name>Catalogo.Entity.DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Catalogo\Catalogo.csproj">
+      <Project>{6ce1eb8b-6711-402d-97f9-8bfdfb7441fb}</Project>
+      <Name>Catalogo</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

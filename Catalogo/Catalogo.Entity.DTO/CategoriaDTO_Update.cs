@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Catalogo.Entity.DTO
 {
-    class CategoriaDTO_Update
+    public class CategoriaDTO_Update
     {
         
         public int Id { get; set; }
