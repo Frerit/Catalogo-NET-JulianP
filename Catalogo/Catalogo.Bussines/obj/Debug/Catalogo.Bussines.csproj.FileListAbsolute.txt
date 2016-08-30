@@ -1,0 +1,5 @@
+C:\Users\julianperez\Documents\Catalogo-NET-JulianP\Catalogo\Catalogo.Bussines\bin\Debug\Catalogo.Bussines.dll
+C:\Users\julianperez\Documents\Catalogo-NET-JulianP\Catalogo\Catalogo.Bussines\bin\Debug\Catalogo.Bussines.pdb
+C:\Users\julianperez\Documents\Catalogo-NET-JulianP\Catalogo\Catalogo.Bussines\obj\Debug\Catalogo.Bussines.csprojResolveAssemblyReference.cache
+C:\Users\julianperez\Documents\Catalogo-NET-JulianP\Catalogo\Catalogo.Bussines\obj\Debug\Catalogo.Bussines.dll
+C:\Users\julianperez\Documents\Catalogo-NET-JulianP\Catalogo\Catalogo.Bussines\obj\Debug\Catalogo.Bussines.pdb

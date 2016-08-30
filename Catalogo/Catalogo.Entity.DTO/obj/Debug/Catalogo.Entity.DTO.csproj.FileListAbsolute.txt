@@ -1,0 +1,5 @@
+C:\Users\julianperez\Documents\Catalogo-NET-JulianP\Catalogo\Catalogo.Entity.DTO\bin\Debug\Catalogo.Entity.DTO.dll
+C:\Users\julianperez\Documents\Catalogo-NET-JulianP\Catalogo\Catalogo.Entity.DTO\bin\Debug\Catalogo.Entity.DTO.pdb
+C:\Users\julianperez\Documents\Catalogo-NET-JulianP\Catalogo\Catalogo.Entity.DTO\obj\Debug\Catalogo.Entity.DTO.csprojResolveAssemblyReference.cache
+C:\Users\julianperez\Documents\Catalogo-NET-JulianP\Catalogo\Catalogo.Entity.DTO\obj\Debug\Catalogo.Entity.DTO.dll
+C:\Users\julianperez\Documents\Catalogo-NET-JulianP\Catalogo\Catalogo.Entity.DTO\obj\Debug\Catalogo.Entity.DTO.pdb
